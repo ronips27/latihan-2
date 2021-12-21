@@ -4,3 +4,6 @@ latihan untuk mempertajam ilmu Version control system
 -fokus belajar git
 -belajar command promp
 -belajar back-end
+-node js
+-php
+-sql
